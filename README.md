@@ -77,3 +77,5 @@ AI-powered workspace that streamlines a researcher's daily workflow.
 <!-- AI x Autonomous Driving x HCI -->
 
 <!-- research engineer profile -->
+
+<!-- ad x ai x hci -->
