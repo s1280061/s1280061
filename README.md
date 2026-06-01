@@ -74,3 +74,4 @@ AI-powered workspace that streamlines a researcher's daily workflow.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </div>
+<!-- AI x Autonomous Driving x HCI -->
