@@ -16,10 +16,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaito-asai-267671393/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/)
-[![Website](https://img.shields.io/badge/Website-111111?style=flat-square&logo=safari&logoColor=white)](https://s1280061.github.io/my-portfolio/)
-[![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:asai.kaito@arakawa-lab.com)
-![Profile views](https://komarev.com/ghpvc/?username=s1280061&style=flat-square&color=0a66c2&label=Views)
 
 </div>
 
