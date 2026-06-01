@@ -23,8 +23,8 @@
 
 ## About
 
-- 🎓 &nbsp;**M.S. in Information Science & Electrical Engineering**, Kyushu University (Arakawa Lab) — future Ph.D. candidate
-- 🚗 &nbsp;**AD / ADAS Research Engineer** at Nissan — perception & prediction for advanced driver assistance
+- 🎓 &nbsp;**M.S. in Automotive Science**, Kyushu University
+- 🚗 &nbsp;**AD / ADAS Research Engineer** — perception & prediction for advanced driver assistance
 - 📄 &nbsp;**2 publications** in autonomous-driving venues — IEEE BigData 2025, IEICE ITS 2026
 - 🧠 &nbsp;Researching **risk-aware perception, cooperative perception (V2X), and Vision-Language Models** for driving safety
 - 🤝 &nbsp;Designing **interpretable, human-centered** assistance — from risk forecasting to actionable driver advice
