@@ -51,34 +51,17 @@
 
 ## Featured Projects
 
-<div align="center">
+#### 🚗 [RiSA — Risk-aware Situational Assistant](https://github.com/s1280061/RiSA-clean)
+Risk forecasting to actionable driver advice. &nbsp;`IEEE BigData 2025`
 
-<a href="https://github.com/s1280061/RiSA-clean">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=s1280061&repo=RiSA-clean&hide_border=true&bg_color=00000000&title_color=0a66c2&icon_color=0a66c2&text_color=808080" alt="RiSA"/>
-</a>
-<a href="https://github.com/s1280061/v2x-lang-risa">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=s1280061&repo=v2x-lang-risa&hide_border=true&bg_color=00000000&title_color=0a66c2&icon_color=0a66c2&text_color=808080" alt="V2X Cooperative Perception"/>
-</a>
+#### 🛰️ [V2X Cooperative Perception](https://github.com/s1280061/v2x-lang-risa)
+Infrastructure–ego sensor fusion for robust, occlusion-resilient perception.
 
-<a href="https://github.com/s1280061/patents_dev">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=s1280061&repo=patents_dev&hide_border=true&bg_color=00000000&title_color=0a66c2&icon_color=0a66c2&text_color=808080" alt="Patent Agent"/>
-</a>
-<a href="https://github.com/s1280061/morning-research-os">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=s1280061&repo=morning-research-os&hide_border=true&bg_color=00000000&title_color=0a66c2&icon_color=0a66c2&text_color=808080" alt="Morning Research OS"/>
-</a>
+#### 📑 [Patent Agent](https://github.com/s1280061/patents_dev)
+Prior-art search and patent analysis for autonomous-driving R&D.
 
-</div>
-
-<div align="center">
-<sub>
-
-**RiSA** — Risk-aware Situational Assistant (IEEE BigData 2025) &nbsp;·&nbsp;
-**V2X** — Infrastructure–ego cooperative perception &nbsp;·&nbsp;
-**Patent Agent** — Prior-art search & analysis &nbsp;·&nbsp;
-**Morning Research OS** — AI workspace for researchers
-
-</sub>
-</div>
+#### 🧭 [Morning Research OS](https://github.com/s1280061/morning-research-os)
+AI-powered workspace that streamlines a researcher's daily workflow.
 
 <br/>
 
@@ -93,20 +76,5 @@
 ![Transformers](https://img.shields.io/badge/Transformers-111111?style=flat-square&logo=huggingface&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</div>
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=s1280061&show_icons=true&hide_border=true&bg_color=00000000&title_color=0a66c2&icon_color=0a66c2&text_color=808080&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1280061&layout=compact&hide_border=true&bg_color=00000000&title_color=0a66c2&text_color=808080&langs_count=8" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=s1280061&hide_border=true&background=00000000&ring=0a66c2&fire=0a66c2&currStreakLabel=0a66c2&stroke=808080&dates=808080&sideLabels=808080&sideNums=808080&currStreakNum=808080&dayLabels=808080" alt="GitHub streak"/>
 
 </div>
