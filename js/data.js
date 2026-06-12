@@ -470,4 +470,239 @@ const quotes = [
       { word: "equal",       reading: "イコール",        pos: "形容詞", meaning: "平等な" }
     ]
   }
+  ,
+  {
+    id: 16,
+    speaker: "Elon Musk",
+    context: "重要なことへの挑戦・強い意志について",
+    category: "モチベーション",
+    difficulty: "中級",
+    english: "When something is important enough, you do it even if the odds are not in your favor. I don't create companies for the sake of creating companies, but to get things done. Optimism, pessimism — we're going to make it happen. I'm hell-bent on making it work.",
+    japanese: "何かが十分に重要なら、たとえ勝ち目がなくても、あなたはそれをやります。私は会社を作るために会社を作るのではなく、物事を成し遂げるために作ります。楽観主義も悲観主義も——私たちはそれを実現させます。私は何としてでもそれを成功させるつもりです。",
+    grammar: [
+      {
+        point: "even if（たとえ〜でも）",
+        explanation: "「even if the odds are not in your favor」の even if は「たとえ〜であっても」という譲歩を表す接続詞です。if よりも強い譲歩を示し、「可能性が低くても関係なく」というニュアンスです。",
+        example: "例: Even if you fail, keep trying.（たとえ失敗しても、挑戦し続けろ）"
+      },
+      {
+        point: "for the sake of（〜のために、〜を目的として）",
+        explanation: "「for the sake of creating companies」は「〜のために」という目的を表す慣用表現です。for the sake of + 名詞/動名詞 の形で使います。",
+        example: "例: Do it for the sake of your future.（将来のためにそれをしなさい）"
+      },
+      {
+        point: "be hell-bent on（〜に強く固執している）",
+        explanation: "「I'm hell-bent on making it work」の be hell-bent on は「どうしても〜しようとする」という強い意志を表す慣用表現です。on の後には動名詞が来ます。",
+        example: "例: She is hell-bent on achieving her goal.（彼女は目標達成に強く固執している）"
+      }
+    ],
+    vocabulary: [
+      { word: "odds",          reading: "オッズ",          pos: "名詞(複)", meaning: "可能性、勝ち目" },
+      { word: "in your favor", reading: "インユアフェイバー", pos: "慣用句", meaning: "あなたに有利な" },
+      { word: "for the sake of", reading: "フォーザセイクオブ", pos: "慣用句", meaning: "〜のために" },
+      { word: "optimism",      reading: "オプティミズム",  pos: "名詞",   meaning: "楽観主義" },
+      { word: "pessimism",     reading: "ペシミズム",      pos: "名詞",   meaning: "悲観主義" },
+      { word: "hell-bent",     reading: "ヘルベント",      pos: "形容詞", meaning: "強く決意した、断固として" }
+    ]
+  },
+  {
+    id: 17,
+    speaker: "Elon Musk",
+    context: "第一原理思考（First Principles Thinking）について",
+    category: "テクノロジー",
+    difficulty: "上級",
+    english: "I think it's important to reason from first principles rather than by analogy. The normal way we conduct our lives is we reason by analogy. We do things because it's like something else that was done, or like what other people are doing. Instead, with first principles, you boil things down to the most fundamental truths and then reason up from there.",
+    japanese: "アナロジーではなく、第一原理から推論することが重要だと思います。私たちが日常生活を送る通常の方法はアナロジーによる推論です。他の似たようなことがされているから、あるいは他の人たちがそうしているからという理由で行動します。その代わりに第一原理では、最も根本的な真実に物事を煮詰め、そこから上に向かって推論します。",
+    grammar: [
+      {
+        point: "rather than（〜よりむしろ、〜ではなく）",
+        explanation: "「reason from first principles rather than by analogy」の rather than は「〜よりむしろ」「〜ではなく」という対比を表します。2つの選択肢のうち一方を優先することを示します。",
+        example: "例: Choose quality rather than quantity.（量よりも質を選べ）"
+      },
+      {
+        point: "The way we ... is we ...（方法を説明する構文）",
+        explanation: "「The normal way we conduct our lives is we reason by analogy」は、The way + 関係節 + is + 主節 の形で「〜する方法というのは〜だ」という説明表現です。",
+        example: "例: The way I study is I make notes.（私の勉強法はノートを作ることだ）"
+      },
+      {
+        point: "boil down to（〜に煮詰める、突き詰めると〜になる）",
+        explanation: "「you boil things down to the most fundamental truths」の boil down to は「複雑なものを本質に絞り込む」という慣用表現です。",
+        example: "例: It all boils down to hard work.（結局のところ、すべては努力に行き着く）"
+      }
+    ],
+    vocabulary: [
+      { word: "first principles", reading: "ファーストプリンシプルズ", pos: "名詞句", meaning: "第一原理（基本的な前提から推論すること）" },
+      { word: "analogy",       reading: "アナロジー",      pos: "名詞",   meaning: "類推、アナロジー" },
+      { word: "conduct",       reading: "コンダクト",      pos: "動詞",   meaning: "行う、進める" },
+      { word: "fundamental",   reading: "ファンダメンタル", pos: "形容詞", meaning: "根本的な、基本的な" },
+      { word: "boil down to",  reading: "ボイルダウントゥ", pos: "慣用句", meaning: "〜に行き着く、煮詰めると〜になる" },
+      { word: "reason up",     reading: "リーズンアップ",   pos: "動詞句", meaning: "（基礎から）上に向かって推論する" }
+    ]
+  },
+  {
+    id: 18,
+    speaker: "Elon Musk",
+    context: "仕事への姿勢と努力について",
+    category: "ビジネス",
+    difficulty: "初級",
+    english: "Work like hell. If other people are putting in 40 hour work weeks and you're putting in 100 hour work weeks, then even if you're doing the same thing, you will achieve in four months what it takes them a year to achieve. Starting a company is like eating glass and staring into the abyss. You have an obligation to the people you work with.",
+    japanese: "死に物狂いで働きなさい。もし他の人たちが週40時間働いていて、あなたが週100時間働いているなら、たとえ同じことをしていても、彼らが1年かかることをあなたは4ヶ月で達成できます。会社を立ち上げることはガラスを食べて深淵を見つめるようなものです。一緒に働く人々に対して義務があります。",
+    grammar: [
+      {
+        point: "命令文（Work like hell）",
+        explanation: "「Work like hell」は動詞の原形で始まる命令文です。like hell は「猛烈に、死に物狂いで」という強調の慣用表現です。",
+        example: "例: Study like hell before the exam.（試験前は死に物狂いで勉強しろ）"
+      },
+      {
+        point: "what it takes + 人 + 時間 + to do",
+        explanation: "「what it takes them a year to achieve」は「〜するのに（人が）（時間）かかること」という構文です。what が名詞節を導き、it takes A B to do（AがBを〜するのにかかる）と組み合わさっています。",
+        example: "例: Do in one day what it takes others a week to do.（他の人が1週間かかることを1日でやれ）"
+      },
+      {
+        point: "have an obligation to（〜に対して義務がある）",
+        explanation: "「You have an obligation to the people you work with」の have an obligation to は「〜に対して義務・責任がある」という表現です。",
+        example: "例: We have an obligation to protect the environment.（私たちには環境を守る義務がある）"
+      }
+    ],
+    vocabulary: [
+      { word: "work like hell", reading: "ワークライクヘル",  pos: "慣用句", meaning: "死に物狂いで働く" },
+      { word: "putting in",     reading: "プッティングイン",  pos: "動詞句", meaning: "〜（時間）を費やす、投入する" },
+      { word: "achieve",        reading: "アチーブ",         pos: "動詞",   meaning: "達成する、成し遂げる" },
+      { word: "abyss",          reading: "アビス",           pos: "名詞",   meaning: "深淵、底なしの穴" },
+      { word: "obligation",     reading: "オブリゲーション",  pos: "名詞",   meaning: "義務、責任" }
+    ]
+  },
+  {
+    id: 19,
+    speaker: "Mark Zuckerberg",
+    context: "Meta（Facebook）創業者 / CEO — リスクと行動について",
+    category: "ビジネス",
+    difficulty: "初級",
+    english: "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks. People don't care about what you say, they care about what you build. Ideas don't come out fully formed. They only become clear as you work on them.",
+    japanese: "最大のリスクは、リスクを取らないことです。変化が非常に速い世界では、失敗が保証されている唯一の戦略はリスクを取らないことです。人々はあなたが何を言うかではなく、何を作るかを気にします。アイデアは最初から完全な形では出てきません。それらはあなたが作業する中でのみ明確になっていきます。",
+    grammar: [
+      {
+        point: "動名詞が主語（not taking any risk）",
+        explanation: "「The biggest risk is not taking any risk」の not taking は動名詞の否定形です。not + 動名詞 で「〜しないこと」という意味になります。動名詞は文の主語や補語になれます。",
+        example: "例: Not trying is the only real failure.（試みないことだけが本当の失敗だ）"
+      },
+      {
+        point: "be guaranteed to（〜することが確実である）",
+        explanation: "「the only strategy that is guaranteed to fail」の be guaranteed to は「〜することが保証されている、確実に〜する」という表現です。",
+        example: "例: Hard work is guaranteed to pay off eventually.（努力はいつか必ず報われる）"
+      },
+      {
+        point: "as you work on them（〜するにつれて）",
+        explanation: "「They only become clear as you work on them」の as は「〜するにつれて、〜する中で」という時間的な変化を表す接続詞です。",
+        example: "例: Things become easier as you practice.（練習するにつれて物事は簡単になる）"
+      }
+    ],
+    vocabulary: [
+      { word: "risk",         reading: "リスク",          pos: "名詞",   meaning: "リスク、危険" },
+      { word: "strategy",     reading: "ストラテジー",    pos: "名詞",   meaning: "戦略" },
+      { word: "guaranteed",   reading: "ギャランティード", pos: "形容詞", meaning: "保証された、確実な" },
+      { word: "fully formed", reading: "フリーフォームド", pos: "形容詞", meaning: "完全に形成された" },
+      { word: "work on",      reading: "ワークオン",      pos: "動詞句", meaning: "〜に取り組む、作業する" }
+    ]
+  },
+  {
+    id: 20,
+    speaker: "Mark Zuckerberg",
+    context: "Facebookの開発哲学 — スピードと行動について",
+    category: "テクノロジー",
+    difficulty: "中級",
+    english: "Move fast and break things. Unless you are breaking stuff, you are not moving fast enough. It's easy to build something that works on a small scale, but it's much harder to build something that can scale to a billion people. The hacker way is about continuous improvement and iteration.",
+    japanese: "素早く動き、ものを壊せ。何かを壊していないなら、十分な速さで動いていません。小規模で動くものを作るのは簡単ですが、10億人規模に拡張できるものを作るのははるかに難しい。ハッカーの方法とは、継続的な改善と反復についてのものです。",
+    grammar: [
+      {
+        point: "unless（〜でない限り）",
+        explanation: "「Unless you are breaking stuff, you are not moving fast enough」の unless は「〜でない限り」という条件を表します。if not と同じ意味ですが、例外条件をより強く強調します。",
+        example: "例: Unless you try, you will never know.（試みない限り、決してわからない）"
+      },
+      {
+        point: "It's easy to ... but it's much harder to ...（対比構文）",
+        explanation: "「It's easy to build ..., but it's much harder to build ...」は形式主語 it を使った対比です。much は比較級を強調する副詞で「はるかに〜」という意味です。",
+        example: "例: It's easy to start, but it's much harder to finish.（始めるのは簡単だが、終わらせるのははるかに難しい）"
+      },
+      {
+        point: "scale to（〜の規模に拡張する）",
+        explanation: "「can scale to a billion people」の scale to は「〜の規模まで拡張する」というテクノロジー・ビジネス用語です。名詞（規模）としても動詞（拡張する）としても使われます。",
+        example: "例: The system needs to scale to millions of users.（システムは数百万ユーザーに対応できる必要がある）"
+      }
+    ],
+    vocabulary: [
+      { word: "break things",  reading: "ブレイクシングス",  pos: "慣用句", meaning: "（従来の方法を壊して）革新する" },
+      { word: "unless",        reading: "アンレス",         pos: "接続詞", meaning: "〜でない限り" },
+      { word: "scale",         reading: "スケール",         pos: "動詞",   meaning: "拡張する、スケールアップする" },
+      { word: "billion",       reading: "ビリオン",         pos: "名詞",   meaning: "10億" },
+      { word: "iteration",     reading: "イタレーション",   pos: "名詞",   meaning: "反復、繰り返し改善" },
+      { word: "continuous",    reading: "コンティニュアス", pos: "形容詞", meaning: "継続的な、絶え間ない" }
+    ]
+  },
+  {
+    id: 21,
+    speaker: "Mark Zuckerberg",
+    context: "人生の目的と使命感について",
+    category: "人生",
+    difficulty: "中級",
+    english: "The question I ask myself like almost every day is, 'Am I doing the most important thing I could be doing?' Purpose is that sense that we are part of something bigger than ourselves, that we are needed, that we have something better ahead to work for. Finding purpose is not enough. We need people everywhere to have purpose too.",
+    japanese: "私がほぼ毎日自分に問いかける質問は「今、自分ができる最も重要なことをしているか？」です。目的とは、自分より大きな何かの一部であり、必要とされており、取り組むべきより良い未来があるという感覚です。目的を見つけるだけでは十分ではありません。どこにいる人々も目的を持てるようにする必要があります。",
+    grammar: [
+      {
+        point: "The question I ask myself（関係代名詞の省略）",
+        explanation: "「The question I ask myself」は The question [that] I ask myself の関係代名詞 that が省略された形です。目的格の関係代名詞は日常英語で省略されることが多いです。",
+        example: "例: The thing I value most is time.（私が最も大切にしているものは時間だ）"
+      },
+      {
+        point: "could be doing（仮定的な可能性の進行形）",
+        explanation: "「the most important thing I could be doing」の could be doing は「〜しているかもしれない/できる」という仮定的な可能性を表します。「今この瞬間できる最善」というニュアンスです。",
+        example: "例: Is this the best I could be doing with my time?（これが今の時間の最善の使い方か？）"
+      },
+      {
+        point: "Purpose is that sense that ...（同格のthat節）",
+        explanation: "「Purpose is that sense that we are part of ...」は sense の内容を that 節で説明する同格の構文です。sense / idea / fact などの後に that 節を続けて内容を説明できます。",
+        example: "例: I had a sense that something was wrong.（何かがおかしいという感覚があった）"
+      }
+    ],
+    vocabulary: [
+      { word: "purpose",   reading: "パーパス",    pos: "名詞",   meaning: "目的、使命、生きがい" },
+      { word: "sense",     reading: "センス",      pos: "名詞",   meaning: "感覚、意識" },
+      { word: "part of",   reading: "パートオブ",  pos: "慣用句", meaning: "〜の一部である" },
+      { word: "ahead",     reading: "アヘッド",    pos: "副詞",   meaning: "前方に、将来に" },
+      { word: "work for",  reading: "ワークフォー", pos: "動詞句", meaning: "〜のために働く、〜を目指す" }
+    ]
+  },
+  {
+    id: 22,
+    speaker: "Mark Zuckerberg",
+    context: "失敗と学習・成長について",
+    category: "ビジネス",
+    difficulty: "上級",
+    english: "I think a simple rule of business is, if you do the things that are easier first, then you can actually make a lot of progress. Done is better than perfect. I made so many mistakes and went through such hard times, but I kept working. You learn as much from what doesn't work as from what does. In fact, you probably learn more.",
+    japanese: "ビジネスのシンプルなルールは、まず簡単なことから始めれば、実際に大きな進歩ができるということだと思います。完璧よりも完成が大事です。私は多くの過ちを犯し、非常に困難な時期を経験しましたが、働き続けました。うまくいかないことからも、うまくいくことと同じくらい多くを学べます。実際、おそらくもっと多くを学べるでしょう。",
+    grammar: [
+      {
+        point: "if ... then（条件と結果）",
+        explanation: "「if you do the things that are easier first, then you can make a lot of progress」は条件節と結果節の構文です。then は結果を強調するために使われており、因果関係を明確にします。",
+        example: "例: If you plan ahead, then you can avoid problems.（事前に計画すれば、問題を避けられる）"
+      },
+      {
+        point: "as much ... as（〜と同じくらい〜）",
+        explanation: "「You learn as much from what doesn't work as from what does」は as much ... as の比較構文です。「〜と同じくらい多く」という同等比較を表します。",
+        example: "例: You gain as much from losing as from winning.（負けから得るものは、勝ちから得るものと同じくらい多い）"
+      },
+      {
+        point: "what doesn't work / what does（関係代名詞 what）",
+        explanation: "「what doesn't work」「what does（work）」の what は関係代名詞で「〜すること/もの」という名詞節を作ります。what does の後には work が省略されています（代動詞）。",
+        example: "例: Learn from what others have done.（他の人がしたことから学べ）"
+      }
+    ],
+    vocabulary: [
+      { word: "progress",   reading: "プログレス",   pos: "名詞",   meaning: "進歩、前進" },
+      { word: "Done is better than perfect", reading: "ダンイズベタースタンパーフェクト", pos: "格言", meaning: "完璧よりも完成（行動主義の格言）" },
+      { word: "went through", reading: "ウェントスルー", pos: "動詞句(過去形)", meaning: "〜を経験した（go through の過去形）" },
+      { word: "kept working", reading: "ケプトワーキング", pos: "動詞句(過去形)", meaning: "働き続けた（keep + -ing の過去形）" },
+      { word: "in fact",    reading: "インファクト",  pos: "副詞句", meaning: "実際のところ、それどころか" }
+    ]
+  }
 ];
