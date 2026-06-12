@@ -10,20 +10,55 @@
 
   <header class="site-header">
     <div class="container">
-      <div class="header-content">
-        <h1 class="site-title">
-          <span class="title-en">English Learning</span>
-          <span class="title-ja">偉人の言葉で英語を学ぼう</span>
-        </h1>
-        <p class="site-desc">世界を変えた人々の言葉から、生きた英語を学ぼう</p>
+
+      <div class="header-top">
+        <div class="header-title-wrap">
+          <h1 class="site-title">
+            <span class="title-en">English Learning</span>
+            <span class="title-ja">偉人の言葉で英語を学ぼう</span>
+          </h1>
+          <p class="site-desc">世界を変えた人々の言葉から、生きた英語を学ぼう</p>
+        </div>
+        <div class="stats-box">
+          <div class="stats-numbers">
+            <span id="studiedCount">0</span><span class="stats-sep">/</span><span id="totalCount">0</span>
+          </div>
+          <div class="stats-label">学習済み</div>
+          <div class="stats-track">
+            <div class="stats-fill" id="statsFill" style="width:0%"></div>
+          </div>
+        </div>
       </div>
-      <div class="filter-bar" id="filterBar"></div>
+
+      <div class="controls-row">
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <input type="text" id="searchInput" class="search-input"
+                 placeholder="キーワードで検索（英語 / 日本語）..." autocomplete="off">
+          <button class="search-clear" id="searchClear">✕</button>
+        </div>
+        <button class="quiz-btn" id="quizBtn">📝 クイズモード</button>
+      </div>
+
+      <div class="filter-section">
+        <div class="filter-row" id="speakerFilter"></div>
+        <div class="filter-row" id="categoryFilter"></div>
+      </div>
+
     </div>
   </header>
 
   <main class="main-content">
     <div class="container">
+      <p class="results-info" id="resultsInfo"></p>
       <div class="quotes-list" id="quotesList"></div>
+      <div class="empty-state" id="emptyState">
+        <div class="empty-icon">🔍</div>
+        <p>該当する名言が見つかりませんでした</p>
+        <button class="reset-btn" id="resetBtn">リセット</button>
+      </div>
     </div>
   </main>
 
